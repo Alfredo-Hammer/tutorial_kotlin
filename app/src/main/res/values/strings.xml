@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Udemy Cursos Kotlin</string>
+    <string name="btn_ciycle">1. To life Cycle Events</string>
+    <string name="btn_click">2. To Click Events</string>
+    <string name="btn_android_extensions">3. To Kotlin Android Extensions</string>
+    <string name="btn_picaso">4. To Picasso</string>
+    <string name="btn_listView">5. To List View</string>
+    <string name="btn_intent">6. To Intent</string>
+    <string name="btn_permissions">7. To Permissions</string>
+    <string name="btn_sharedPreferences">8. To shared preferences</string>
+    <string name="btn_extensionsFuntions">9. To exentension Functions</string>
+    <string name="click_multi_line_3">Click Multi Line - 3</string>
+    <string name="click_multi_line_2">Click Multi Line - 2</string>
+    <string name="click_multi_line_1">Click Multi Line - 1</string>
+    <string name="click_in_line">click In Line</string>
+    <string name="click_xml">Click Xml</string>
+    <string name="compartir">10. Compartir</string>
+    <string name="_11_activity_animation">11. Activity Animation</string>
+    <string name="logo">logo</string>
+    <string name="imagen_animado_de_android">Imagen animado de Android</string>
+</resources>
